@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <LoginContainer>
         <LoginInner>
-            <img src="http://assets.stickpng.com/images/5cb480cd5f1b6d3fbadece79.png" alt="" />
+            <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/f2/b5/8cf2b59a-2571-fdb2-a75c-499f6849b423/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" alt="" />
             <h1>Sign In to the codefiction</h1>
             <p>codefiction.slack.com</p>
 

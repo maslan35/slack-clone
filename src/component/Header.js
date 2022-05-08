@@ -58,7 +58,7 @@ const HeaderAvatar = styled(Avatar)`
     width: 26px !important;
     height: 26px !important;
     cursor: pointer;
-
+    margin-right: 10px;
     &:hover {
         opacity: 0.8;
     }
